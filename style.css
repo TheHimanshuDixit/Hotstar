@@ -8,7 +8,7 @@ body{
     width: 100%;
     background: #0c111b;
     position: relative;
-    font-family: roboto,sans-serif;
+    font-family: times new roman,sans-serif;
 }
 
 .navbar{
@@ -17,10 +17,12 @@ body{
     position: fixed;
     top: 0;
     left: 0;
+    margin: 0 2%;
     padding: 0 4%;
     background: #0b111b;
     z-index: 9;
     display: flex;
+    justify-content: center;
     align-items: center;
 }
 
